@@ -10,7 +10,7 @@ Timerpool PRIVACY policy
    
 3- All the collected data are used to make the app work in the correct manner and nothing else.
 
-4- The permissions that the app require are: INTERNET_CONNECTION, VIBRATOR, READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE;
+4- The permissions that the app require are: INTERNET_CONNECTION, VIBRATOR, READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE, COARSE_GEOLOCALIZATION(optional), NOTIFICATION(optional);
    the permissions are used for: communicate with servers and achieve a better user experience.
    
 5- If you have some doubts or just some questions don't esitate to contact the studio at: flyingtiburonesstudio@gmail.com
